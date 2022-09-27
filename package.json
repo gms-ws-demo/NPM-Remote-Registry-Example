@@ -1,0 +1,19 @@
+{
+  "name": "@garymsegal-ws/npm-remote-registry-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gms-ws-demo/NPM-Remote-Registry-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gms-ws-demo/NPM-Remote-Registry-Example/issues"
+  },
+  "homepage": "https://github.com/gms-ws-demo/NPM-Remote-Registry-Example#readme"
+}
