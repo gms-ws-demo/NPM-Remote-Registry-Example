@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/gms-ws-demo/NPM-Remote-Registry-Example.git"
   },
-  "author": "",
+  "publishConfig": {
+    "@garymsegal-ws:registry": "https://npm.pkg.github.com"
+  },
+  "author": "Gary M. Segal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gms-ws-demo/NPM-Remote-Registry-Example/issues"
