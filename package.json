@@ -1,5 +1,5 @@
 {
-  "name": "@garymsegal-ws/npm-remote-registry-example",
+  "name": "@gms-ws-demo/npm-remote-registry-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/gms-ws-demo/NPM-Remote-Registry-Example.git"
   },
   "publishConfig": {
-    "@garymsegal-junk:registry": "https://npm.pkg.github.com"
+    "@gms-ws-demo:registry": "https://npm.pkg.github.com"
   },
   "author": "Gary M. Segal",
   "license": "ISC",
