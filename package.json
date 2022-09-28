@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gms-ws-demo/NPM-Remote-Registry-Example/issues"
   },
-  "homepage": "https://github.com/gms-ws-demo/NPM-Remote-Registry-Example#readme"
+  "homepage": "https://github.com/gms-ws-demo/NPM-Remote-Registry-Example#readme",
+  "dependencies": {
+    "lodash": "^4.17.17"
+  }
 }
